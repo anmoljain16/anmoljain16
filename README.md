@@ -1,6 +1,6 @@
 Hi there! I'm Anmol Jain, a creative individual with a passion for web design and marketing. I'm on a mission to merge the worlds of technology and design to create beautiful and effective websites.
 
-As a student/professional in computer science and engineering, I'm constantly learning and growing my skillset, which allows me to bring a unique perspective to any project I work on. My goal is to create websites that not only look great, but also provide value to their users.
+As a student in computer science and engineering, I'm constantly learning and growing my skillset, which allows me to bring a unique perspective to any project I work on.
 
 I'm always on the lookout for new collaborations and opportunities to grow in my field. Whether it's working on a personal project or contributing to a larger team effort, I'm eager to take on new challenges and learn from others.
 
