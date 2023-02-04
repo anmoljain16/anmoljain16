@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Anmol Jain
-- 👀 I’m interested in Web Designing and Makreting
-- 🌱 I’m currently learning Computer Science And Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! I'm Anmol Jain, a creative individual with a passion for web design and marketing. I'm on a mission to merge the worlds of technology and design to create beautiful and effective websites.
 
-<!---
-anmoljain16/anmoljain16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a student/professional in computer science and engineering, I'm constantly learning and growing my skillset, which allows me to bring a unique perspective to any project I work on. My goal is to create websites that not only look great, but also provide value to their users.
+
+I'm always on the lookout for new collaborations and opportunities to grow in my field. Whether it's working on a personal project or contributing to a larger team effort, I'm eager to take on new challenges and learn from others.
+
+If you're interested in connecting with me, you can reach me at ajanmoldosi@gmail.com or connect with me on https://www.linkedin.com/in/anmol16/. Let's make magic happen!
