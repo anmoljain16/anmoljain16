@@ -1,4 +1,6 @@
-Create a GitHub README file that highlights my skills as a full stack developer. Include the following details:
+## Introduction
+I am a proficient full stack developer with expertise in a wide range of technologies. My skills span front-end and back-end development, UI/UX design, and database management. Through my experience and continuous learning, I have gained proficiency in building responsive web applications that provide seamless user experiences.
+
 
 ## Skills
 
@@ -31,8 +33,6 @@ Create a GitHub README file that highlights my skills as a full stack developer.
 - WordPress
 - Wix
 
-## Introduction
-I am a proficient full stack developer with expertise in a wide range of technologies. My skills span front-end and back-end development, UI/UX design, and database management. Through my experience and continuous learning, I have gained proficiency in building responsive web applications that provide seamless user experiences.
 
 ## Languages and Frameworks
 I am well-versed in HTML/CSS for creating elegant and responsive user interfaces. My JavaScript skills enable me to develop interactive and dynamic web applications. I am also proficient in utilizing frameworks such as BootStrap, jQuery, ReactJS, Vite, NodeJS, and ExpressJS to streamline the development process and enhance the functionality of my projects.
