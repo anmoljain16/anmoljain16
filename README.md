@@ -51,6 +51,8 @@ My familiarity with WordPress and Wix enables me to create and customize content
 
 Feel free to explore my repositories for a closer look at the projects I have worked on. If you're interested in collaborating or discussing any development opportunities, please reach out to me.
 
-[Portfolio Website](https://www.example.com)
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-[Email](mailto:youremail@example.com)
+[Portfolio Website](https://www.anmoljain.tech)
+
+[LinkedIn Profile](https://www.linkedin.com/in/anmol16)
+
+[Email](mailto:ajanmoldosi@gmail.com)
