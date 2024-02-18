@@ -1,58 +1,46 @@
-## Introduction
-I am a proficient full stack developer with expertise in a wide range of technologies. My skills span front-end and back-end development, UI/UX design, and database management. Through my experience and continuous learning, I have gained proficiency in building responsive web applications that provide seamless user experiences.
+<h2 align="left">Hi 👋! My name is Anmol Jain and I'm a 4th year Computer Science and Engineering student from Rajasthan</h2>
 
+###
 
-## Skills
+<img align="right" height="150" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif"  />
 
-### Languages
-- HTML/CSS
-- JavaScript
+###
 
-### Frameworks
-- BootStrap
-- jQuery
-- ReactJS
-- Vite
-- NodeJS
-- ExpressJS
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+</div>
 
-### Database
-- MongoDB
-- SQL
+###
 
-### Developer Tools
-- Figma
-- BootStrap Studio
-- VS Code
-- WebStorm
-- PyCharm
-- Apache
+<div align="left">
+  <a href="https://www.instagram.com/anmoljain_01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="ajanmoldosi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/anmol16/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Technologies
-- GitHub
-- WordPress
-- Wix
-
-
-## Languages and Frameworks
-I am well-versed in HTML/CSS for creating elegant and responsive user interfaces. My JavaScript skills enable me to develop interactive and dynamic web applications. I am also proficient in utilizing frameworks such as BootStrap, jQuery, ReactJS, Vite, NodeJS, and ExpressJS to streamline the development process and enhance the functionality of my projects.
-
-## Database Management
-I have hands-on experience working with both MongoDB and SQL databases. This expertise allows me to design efficient database structures, manage data effectively, and ensure optimal performance for applications.
-
-## Developer Tools
-My toolset includes Figma and BootStrap Studio for designing visually appealing user interfaces. For coding, I prefer using VS Code, WebStorm, and PyCharm, as they provide an excellent development environment. Additionally, I have experience with Apache for server configuration and management.
-
-## Collaboration and Version Control
-I am adept at using GitHub to collaborate with team members, manage code repositories, and track changes effectively. This ensures smooth teamwork and organized project development.
-
-## Content Management Systems
-My familiarity with WordPress and Wix enables me to create and customize content-driven websites with ease, providing clients with powerful and flexible solutions.
-
-Feel free to explore my repositories for a closer look at the projects I have worked on. If you're interested in collaborating or discussing any development opportunities, please reach out to me.
-
-[Portfolio Website](https://www.anmoljain.tech)
-
-[LinkedIn Profile](https://www.linkedin.com/in/anmol16)
-
-[Email](mailto:ajanmoldosi@gmail.com)
+###
