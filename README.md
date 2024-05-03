@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on AQuiz <br>
+👯 I’m looking to collaborate on exciting projects and join innovative startups<br>
+🤝 I’m looking for help with advancing my skills in Next.js<br>
+🌱 I’m currently learning Next.js in depth
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol16) 
