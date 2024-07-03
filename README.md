@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AQuiz <br>
+🔭 I’m currently working on a project that compares new indian laws with old one <br>
 👯 I’m looking to collaborate on exciting projects and join innovative startups<br>
 🤝 I’m looking for help with advancing my skills in Next.js<br>
 🌱 I’m currently learning Next.js in depth
